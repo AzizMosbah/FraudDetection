@@ -1,12 +1,6 @@
-# Ravelin Investigations Team Code Test
+# Fraud Detection
 
-This code test is designed to test your technical aptitude and expertise with handling data. That said, we are just as interested in your approach to problem solving as the actual answers to your test.
-
-Don't spend any longer than a couple of hours on each task. We acknowledge that you may be working and it may be difficult to find time to complete this test. The deadline for your report will take this into account and will be indicated on the email confirming your invitation to this code test.
-
-Please submit your work in the form of a PDF. It is up to you to choose how to represent your findings. You should aim to make your work clear and explicable, using visualisations, tables, maps, etc as necessary. Think about "what", "when", "where", "how", and "why". Remember, you will be explaining your findings to clients and you need to choose the right balance of technical detail and narrative.
-
-It doesn't matter what software or tools you use, as long as you can use them effectively to model your data and extract the information you need.
+This project is an investigative work on detecting fraudulent transactions and fraudulent accounts in a transactions dataset
 
 ---
 ## Part One: Exploratory Analysis
