@@ -5,7 +5,7 @@ This project is an investigative work on detecting fraudulent transactions and f
 ---
 ## Part One: Exploratory Analysis
 
-The file named `task1_transport_data.csv` consists of data from a fictional transportation company. It details the number of orders that customers of this company make on any given day, with some additional variables. You should:
+The file named `transport_data.csv` consists of data from a fictional transportation company. It details the number of orders that customers of this company make on any given day, with some additional variables.
 
 • Provided exploratory analysis of the dataset.
 
@@ -17,7 +17,7 @@ The file named `task1_transport_data.csv` consists of data from a fictional tran
 ---
 
 ## Part Two: Network Analysis
-The file name `task2_customers_devices_cards.csv` is a fictional list of fraudulent users of a smartphone app that takes payments. Each line represents a user, a device and a credit card. Your task is to detect networks in this file.
+The file name `customers_devices_cards.csv` is a list of fraudulent users of a smartphone app that takes payments. Each line represents a user, a device and a credit card. To detect networks in this file we:
 
 • Provided a visualisation of any networks found.
 
@@ -26,9 +26,9 @@ The file name `task2_customers_devices_cards.csv` is a fictional list of fraudul
 ---
 
 ## Part Three: Location Analysis
-The file name `task3_fraudulent_orders_locations.csv` is data from a fictional e-commerce company. It contains a month's worth of fraudulent orders.
+The file name `fraudulent_orders_locations.csv` is data from an e-commerce company. It contains a month's worth of fraudulent orders.
 
-• Provide exploratory analysis of the dataset.
+• Provided exploratory analysis of the dataset.
 
 • Where should the fraud detection team concentrate their efforts?
 
